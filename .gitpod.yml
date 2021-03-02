@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: paritytech/ink-ci-linux:production
 ports:
   - port: 8000
     onOpen: open-preview
