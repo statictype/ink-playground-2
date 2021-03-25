@@ -1,7 +1,7 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: cargo +nightly contract build         
+  - prebuild: cargo +nightly contract build         
    
 github:
   prebuilds:
