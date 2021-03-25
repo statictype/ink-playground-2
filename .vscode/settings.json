@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.rustfmt.extraArgs": [
+    "+nightly"
+  ]
+}
